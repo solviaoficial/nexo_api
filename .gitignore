@@ -1,0 +1,14 @@
+.env
+.env.*
+!.env.example
+data/
+backups/
+*.db
+*.db-*
+*.sqlite*
+*.exe
+nexo
+coverage.out
+coverage.html
+.DS_Store
+*.log

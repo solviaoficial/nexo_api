@@ -1,0 +1,9 @@
+.git
+.env
+.env.*
+data
+backups
+*.exe
+nexo
+coverage.*
+work
