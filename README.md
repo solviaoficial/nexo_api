@@ -22,6 +22,8 @@ Não é um clone com compatibilidade de rotas da Uazapi/Evolution. Não inclui m
 
 ## Começar na VPS
 
+Se você usa EasyPanel, siga o [guia específico do EasyPanel](docs/EASYPANEL.md). Para instalação direta com Docker Compose, continue abaixo.
+
 Recomendação inicial: Linux com **2 vCPU, 2 GB de RAM e 20 GB SSD**, um subdomínio e Docker Engine + Compose plugin. É um ponto inicial para baixo volume, não capacidade comprovada em carga. O build pode exigir mais RAM que a execução; se necessário, use uma máquina de build.
 
 1. Suba esta pasta em um repositório privado do GitHub. Veja [GitHub e deploy](docs/DEPLOY.md).
