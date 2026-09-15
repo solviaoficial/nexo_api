@@ -1,5 +1,7 @@
 # GitHub e VPS
 
+Para instalação pelo EasyPanel, use o guia dedicado em [EASYPANEL.md](EASYPANEL.md).
+
 ## 1. Preparar o repositório
 
 Extraia o ZIP e abra um terminal **dentro da pasta nexo-whatsapp**. Não inicialize Git na pasta pai que contém outros projetos.
